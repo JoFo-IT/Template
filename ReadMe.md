@@ -1,4 +1,4 @@
-# Tamplate
+# Template
 
 # How to use
 
@@ -9,6 +9,10 @@
 ## .Net
 
 ## Somthing else
+
+| Name	| Info text	| Language 	| Link 	|
+| --- 	| --- 		| --- 		| --- 	|
+| Template Text Modules | This project is a comprehensive collection of text snippets that can be reused and applied across multiple projects. | MD | [JoFo-IT/TemplateTextModules](https://github.com/JoFo-IT/TemplateTextModules)
 
 # Disclaimer
 
